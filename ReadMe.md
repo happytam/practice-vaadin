@@ -8,3 +8,5 @@
 生产阶段，使用`mvn clean package -Pproduction`进行打包
 
 
+本人学习过程中的记录，添加到了掘金博客的“vaadin专栏下”
+https://juejin.cn/column/7154740330078830600
